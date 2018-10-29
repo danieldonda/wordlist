@@ -11,4 +11,5 @@ Sites de Wordlist
 
 * https://www.wirelesshack.org/wpa-wpa2-word-list-dictionaries.html
 
-* https://www.wirelesshack.org/wpa-wpa2-word-list-dictionaries.html 
+* https://wiki.skullsecurity.org/Passwords 
+
